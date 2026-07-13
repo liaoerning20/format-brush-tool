@@ -1,13 +1,13 @@
 {
-    "tag_name":  "v1.9.14",
-    "html_url":  "https://github.com/liaoerning20/format-brush-tool/releases/tag/v1.9.14",
-    "body":  "自动更新链路测试版：验证后台下载、校验、静默安装和自动重启。",
+    "tag_name":  "v2.0.0",
+    "html_url":  "https://github.com/liaoerning20/format-brush-tool/releases/tag/v2.0.0",
+    "body":  "格式刷工具 v2.0.0：统一 Word/WPS 格式处理、安装器部署和自动更新链路。",
     "assets":  [
                    {
                        "name":  "format-brush-tool-setup.exe",
-                       "browser_download_url":  "https://github.com/liaoerning20/format-brush-tool/releases/download/v1.9.14/format-brush-tool-setup.exe",
-                       "size":  12237613,
-                       "digest":  "sha256:7a6611befaf9ab7d187fcced3867d3be3940f720297d57d58f851bc4a88523c8"
+                       "browser_download_url":  "https://github.com/liaoerning20/format-brush-tool/releases/download/v2.0.0/format-brush-tool-setup.exe",
+                       "size":  12237799,
+                       "digest":  "sha256:53577d41a67808bf2f4905d637ee07bb1493c76b397a8df008ee2bb8c3f6675e"
                    }
                ]
 }
