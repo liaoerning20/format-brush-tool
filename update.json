@@ -6,8 +6,8 @@
                    {
                        "name":  "format-brush-tool-setup.exe",
                        "browser_download_url":  "https://github.com/liaoerning20/format-brush-tool/releases/download/v1.9.14/format-brush-tool-setup.exe",
-                       "size":  12237619,
-                       "digest":  "sha256:d732b1fc40d304890f81f8085fbca37914aab5817441e405d3b0de9a98c079a3"
+                       "size":  12237587,
+                       "digest":  "sha256:87b18dca8c72423d58a3dd0b3283a63a78edd39e35a870414a3c16e2bbe852b3"
                    }
                ]
 }
