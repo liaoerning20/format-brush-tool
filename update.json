@@ -1,13 +1,13 @@
 {
-  "tag_name": "v1.9.13",
-  "html_url": "https://github.com/liaoerning20/format-brush-tool/releases/tag/v1.9.13",
-  "body": "请查看 GitHub Release 页面中的更新说明。",
-  "assets": [
-    {
-      "name": "format-brush-tool.exe",
-      "browser_download_url": "https://github.com/liaoerning20/format-brush-tool/releases/download/v1.9.13/format-brush-tool.exe",
-      "size": 10417638,
-      "digest": "sha256:c2fc5e4034bef033e8fa85a5211360a3e2323df3241b28fafeb435dbd1af4a89"
-    }
-  ]
+    "tag_name":  "v1.9.14",
+    "html_url":  "https://github.com/liaoerning20/format-brush-tool/releases/tag/v1.9.14",
+    "body":  "自动更新链路测试版：验证后台下载、校验、静默安装和自动重启。",
+    "assets":  [
+                   {
+                       "name":  "format-brush-tool-setup.exe",
+                       "browser_download_url":  "https://github.com/liaoerning20/format-brush-tool/releases/download/v1.9.14/format-brush-tool-setup.exe",
+                       "size":  12237619,
+                       "digest":  "sha256:d732b1fc40d304890f81f8085fbca37914aab5817441e405d3b0de9a98c079a3"
+                   }
+               ]
 }
