@@ -1,13 +1,13 @@
 {
-    "tag_name":  "v2.0.0",
-    "html_url":  "https://github.com/liaoerning20/format-brush-tool/releases/tag/v2.0.0",
-    "body":  "格式刷工具 v2.0.0：统一 Word/WPS 格式处理、安装器部署和自动更新链路。",
-    "assets":  [
-                   {
-                       "name":  "format-brush-tool-setup.exe",
-                       "browser_download_url":  "https://github.com/liaoerning20/format-brush-tool/releases/download/v2.0.0/format-brush-tool-setup.exe",
-                       "size":  12237799,
-                       "digest":  "sha256:53577d41a67808bf2f4905d637ee07bb1493c76b397a8df008ee2bb8c3f6675e"
-                   }
-               ]
+  "tag_name": "v2.0.1",
+  "html_url": "https://github.com/liaoerning20/format-brush-tool/releases/tag/v2.0.1",
+  "body": "格式刷工具 v2.0.1：保留自动列表，统一紧凑界面与更新按钮对齐。",
+  "assets": [
+    {
+      "name": "format-brush-tool-setup.exe",
+      "browser_download_url": "https://github.com/liaoerning20/format-brush-tool/releases/download/v2.0.1/format-brush-tool-setup.exe",
+      "size": 12238172,
+      "digest": "sha256:87d93d979266a3561d51cacddab25092beb75abdf8bec0c332569ebaf5e1ec2a"
+    }
+  ]
 }
